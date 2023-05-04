@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Jabu9 Github Profile</title>
   </head>
   <body>
     <h1>Jabu9 Github Profile</h1>

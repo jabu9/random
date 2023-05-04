@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Jabu9 Github Profile</h1>
-    <p>Welcome to my random repository! Here you can find a collection of code files written in various programming languages including C, C++, Python, Java, etc. Each file within this repository is designed to be a self-contained program that can be run independently.</p>
+    <p>Welcome to my 'random' repository! Here you can find a collection of code files written in various programming languages including C, C++, Python, Java, etc. Each file within this repository is designed to be a self-contained program that can be run independently.</p>
     <h2>Repository Overview</h2>
     <ul>
       <li><code>bankers_algorithm.c</code> 

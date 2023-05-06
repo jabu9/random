@@ -2,7 +2,10 @@
 
 import calendar
 
-year =int( input("Enter the year of the required calendar "))
-month = int( input("Enter the month of the required calendar "))
+print("Calendar Generator")
+
+year =int( input("Enter Year: "))
+month = int( input("Enter Month: "))
+print()
 
 print(calendar.month(year,month))                                                         

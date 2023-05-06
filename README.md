@@ -12,7 +12,7 @@
       <li><code>inheritance.py</code>- Parents And Children In Python, Inheritance</li>
       <li><code>fake_information_generator.py</code>- Fake information generator</li>
       <li><code>handwritten_message.py</code>- Create handwritten message</li>
-      <li><code>print.calendar.py</code>- Print Calendar for Year & Month inputted </li>
+      <li><code>print_calendar.py</code>- Print Calendar for Year & Month inputted </li>
     </ul>
     <h2>Running the Programs</h2>
     <p>To run any of the programs in this repository, simply open the file in your preferred development environment or text editor, and run it from there. Each file is designed to be a self-contained program, meaning that it does not rely on any external libraries or dependencies.</p>

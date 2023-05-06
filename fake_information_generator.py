@@ -1,4 +1,5 @@
 # Fake information generator
+# pip install Faker
 
 from faker import Faker
 

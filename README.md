@@ -18,7 +18,5 @@
     <p>To run any of the programs in this repository, simply open the file in your preferred development environment or text editor, and run it from there. Each file is designed to be a self-contained program, meaning that it does not rely on any external libraries or dependencies.</p>
     <h2>Contributing</h2>
     <p>If you would like to contribute to this repository, please feel free to submit a pull request with your changes. I welcome any suggestions or improvements that you may have.</p>
-    <h2>License</h2>
-    <p>All code files in this repository are released under the MIT License. Feel free to use, modify, and distribute the code as you see fit, but please give credit to the original author (Jabu9) and include the license file in your distribution.</p>
   </body>
 </html>
